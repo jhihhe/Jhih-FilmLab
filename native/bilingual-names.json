@@ -1,0 +1,415 @@
+{
+  "author": "@Jhih he",
+  "names": {
+    "sony-01": {
+      "brand_zh": "索尼",
+      "brand_en": "Sony",
+      "scheme_en": "Standard"
+    },
+    "sony-02": {
+      "brand_zh": "索尼",
+      "brand_en": "Sony",
+      "scheme_en": "Portrait PT"
+    },
+    "sony-03": {
+      "brand_zh": "索尼",
+      "brand_en": "Sony",
+      "scheme_en": "Neutral NT"
+    },
+    "sony-04": {
+      "brand_zh": "索尼",
+      "brand_en": "Sony",
+      "scheme_en": "Vivid VV"
+    },
+    "sony-05": {
+      "brand_zh": "索尼",
+      "brand_en": "Sony",
+      "scheme_en": "Vivid VV2"
+    },
+    "sony-06": {
+      "brand_zh": "索尼",
+      "brand_en": "Sony",
+      "scheme_en": "Film FL"
+    },
+    "sony-07": {
+      "brand_zh": "索尼",
+      "brand_en": "Sony",
+      "scheme_en": "Instant IN"
+    },
+    "sony-08": {
+      "brand_zh": "索尼",
+      "brand_en": "Sony",
+      "scheme_en": "Soft High Key SH"
+    },
+    "sony-09": {
+      "brand_zh": "富士",
+      "brand_en": "Fujifilm",
+      "scheme_en": "Provia Standard"
+    },
+    "sony-10": {
+      "brand_zh": "富士",
+      "brand_en": "Fujifilm",
+      "scheme_en": "Velvia Vivid"
+    },
+    "sony-11": {
+      "brand_zh": "富士",
+      "brand_en": "Fujifilm",
+      "scheme_en": "Astia Soft"
+    },
+    "sony-12": {
+      "brand_zh": "富士",
+      "brand_en": "Fujifilm",
+      "scheme_en": "Classic Chrome"
+    },
+    "sony-13": {
+      "brand_zh": "富士",
+      "brand_en": "Fujifilm",
+      "scheme_en": "Classic Negative"
+    },
+    "sony-14": {
+      "brand_zh": "富士",
+      "brand_en": "Fujifilm",
+      "scheme_en": "Nostalgic Negative"
+    },
+    "sony-15": {
+      "brand_zh": "富士",
+      "brand_en": "Fujifilm",
+      "scheme_en": "Reala Ace"
+    },
+    "sony-16": {
+      "brand_zh": "富士",
+      "brand_en": "Fujifilm",
+      "scheme_en": "Pro Neg Standard"
+    },
+    "sony-17": {
+      "brand_zh": "富士",
+      "brand_en": "Fujifilm",
+      "scheme_en": "Pro Neg High"
+    },
+    "sony-18": {
+      "brand_zh": "富士",
+      "brand_en": "Fujifilm",
+      "scheme_en": "Eterna Cinema"
+    },
+    "sony-19": {
+      "brand_zh": "富士",
+      "brand_en": "Fujifilm",
+      "scheme_en": "Eterna Bleach Bypass"
+    },
+    "sony-20": {
+      "brand_zh": "富士",
+      "brand_en": "Fujifilm",
+      "scheme_en": "Acros"
+    },
+    "sony-21": {
+      "brand_zh": "富士",
+      "brand_en": "Fujifilm",
+      "scheme_en": "Acros Yellow Filter"
+    },
+    "sony-22": {
+      "brand_zh": "富士",
+      "brand_en": "Fujifilm",
+      "scheme_en": "Acros Red Filter"
+    },
+    "sony-23": {
+      "brand_zh": "富士",
+      "brand_en": "Fujifilm",
+      "scheme_en": "Acros Green Filter"
+    },
+    "sony-24": {
+      "brand_zh": "富士",
+      "brand_en": "Fujifilm",
+      "scheme_en": "Sepia"
+    },
+    "sony-25": {
+      "brand_zh": "富士",
+      "brand_en": "Fujifilm",
+      "scheme_en": "Pro 400H"
+    },
+    "sony-26": {
+      "brand_zh": "富士",
+      "brand_en": "Fujifilm",
+      "scheme_en": "Fortia 50"
+    },
+    "sony-27": {
+      "brand_zh": "富士",
+      "brand_en": "Fujifilm",
+      "scheme_en": "Superia 400"
+    },
+    "sony-28": {
+      "brand_zh": "富士",
+      "brand_en": "Fujifilm",
+      "scheme_en": "C200"
+    },
+    "sony-29": {
+      "brand_zh": "富士",
+      "brand_en": "Fujifilm",
+      "scheme_en": "Natura 1600"
+    },
+    "sony-30": {
+      "brand_zh": "柯达",
+      "brand_en": "Kodak",
+      "scheme_en": "Portra 160"
+    },
+    "sony-31": {
+      "brand_zh": "柯达",
+      "brand_en": "Kodak",
+      "scheme_en": "Portra 400"
+    },
+    "sony-32": {
+      "brand_zh": "柯达",
+      "brand_en": "Kodak",
+      "scheme_en": "Portra 800"
+    },
+    "sony-33": {
+      "brand_zh": "柯达",
+      "brand_en": "Kodak",
+      "scheme_en": "Gold 200"
+    },
+    "sony-34": {
+      "brand_zh": "柯达",
+      "brand_en": "Kodak",
+      "scheme_en": "UltraMax 400"
+    },
+    "sony-35": {
+      "brand_zh": "柯达",
+      "brand_en": "Kodak",
+      "scheme_en": "ColorPlus 200"
+    },
+    "sony-36": {
+      "brand_zh": "柯达",
+      "brand_en": "Kodak",
+      "scheme_en": "Ektar 100"
+    },
+    "sony-37": {
+      "brand_zh": "柯达",
+      "brand_en": "Kodak",
+      "scheme_en": "E100 Reversal"
+    },
+    "sony-38": {
+      "brand_zh": "柯达",
+      "brand_en": "Kodak",
+      "scheme_en": "Kodachrome 64"
+    },
+    "sony-39": {
+      "brand_zh": "柯达",
+      "brand_en": "Kodak",
+      "scheme_en": "Vision3 500T Daylight"
+    },
+    "sony-40": {
+      "brand_zh": "柯达",
+      "brand_en": "Kodak",
+      "scheme_en": "Vision 200T Asteroid City"
+    },
+    "sony-41": {
+      "brand_zh": "柯达",
+      "brand_en": "Kodak",
+      "scheme_en": "Tri-X 400"
+    },
+    "sony-42": {
+      "brand_zh": "柯达",
+      "brand_en": "Kodak",
+      "scheme_en": "T-Max"
+    },
+    "sony-43": {
+      "brand_zh": "柯达",
+      "brand_en": "Kodak",
+      "scheme_en": "Tri-X 1600 Push"
+    },
+    "sony-44": {
+      "brand_zh": "电影静帧",
+      "brand_en": "CineStill",
+      "scheme_en": "50D Blue Velvet"
+    },
+    "sony-45": {
+      "brand_zh": "电影静帧",
+      "brand_en": "CineStill",
+      "scheme_en": "800T"
+    },
+    "sony-46": {
+      "brand_zh": "电影风格",
+      "brand_en": "Cinema",
+      "scheme_en": "Classic Cinema"
+    },
+    "sony-47": {
+      "brand_zh": "电影风格",
+      "brand_en": "Cinema",
+      "scheme_en": "Rec709 Flat"
+    },
+    "sony-48": {
+      "brand_zh": "理光 GR",
+      "brand_en": "Ricoh GR",
+      "scheme_en": "Positive Film"
+    },
+    "sony-49": {
+      "brand_zh": "理光 GR",
+      "brand_en": "Ricoh GR",
+      "scheme_en": "Negative Film"
+    },
+    "sony-50": {
+      "brand_zh": "理光 GR",
+      "brand_en": "Ricoh GR",
+      "scheme_en": "Bleach Bypass"
+    },
+    "sony-51": {
+      "brand_zh": "理光 GR",
+      "brand_en": "Ricoh GR",
+      "scheme_en": "Retro"
+    },
+    "sony-52": {
+      "brand_zh": "理光 GR",
+      "brand_en": "Ricoh GR",
+      "scheme_en": "Cross Process"
+    },
+    "sony-53": {
+      "brand_zh": "理光 GR",
+      "brand_en": "Ricoh GR",
+      "scheme_en": "High Contrast BW"
+    },
+    "sony-54": {
+      "brand_zh": "理光 GR",
+      "brand_en": "Ricoh GR",
+      "scheme_en": "Hard Monotone"
+    },
+    "sony-55": {
+      "brand_zh": "理光 GR",
+      "brand_en": "Ricoh GR",
+      "scheme_en": "Soft Monotone"
+    },
+    "sony-56": {
+      "brand_zh": "徕卡",
+      "brand_en": "Leica",
+      "scheme_en": "Contemporary"
+    },
+    "sony-57": {
+      "brand_zh": "徕卡",
+      "brand_en": "Leica",
+      "scheme_en": "Classic"
+    },
+    "sony-58": {
+      "brand_zh": "徕卡",
+      "brand_en": "Leica",
+      "scheme_en": "Eternal"
+    },
+    "sony-59": {
+      "brand_zh": "徕卡",
+      "brand_en": "Leica",
+      "scheme_en": "Monochrom"
+    },
+    "sony-60": {
+      "brand_zh": "哈苏",
+      "brand_en": "Hasselblad",
+      "scheme_en": "HNCS Natural"
+    },
+    "sony-61": {
+      "brand_zh": "佳能",
+      "brand_en": "Canon",
+      "scheme_en": "Standard"
+    },
+    "sony-62": {
+      "brand_zh": "佳能",
+      "brand_en": "Canon",
+      "scheme_en": "Portrait"
+    },
+    "sony-63": {
+      "brand_zh": "佳能",
+      "brand_en": "Canon",
+      "scheme_en": "Faithful"
+    },
+    "sony-64": {
+      "brand_zh": "尼康",
+      "brand_en": "Nikon",
+      "scheme_en": "Flat"
+    },
+    "sony-65": {
+      "brand_zh": "尼康",
+      "brand_en": "Nikon",
+      "scheme_en": "Vivid"
+    },
+    "sony-66": {
+      "brand_zh": "松下",
+      "brand_en": "Panasonic",
+      "scheme_en": "L.Monochrome D"
+    },
+    "sony-67": {
+      "brand_zh": "松下",
+      "brand_en": "Panasonic",
+      "scheme_en": "L.Classic Neo"
+    },
+    "sony-68": {
+      "brand_zh": "奥林巴斯",
+      "brand_en": "Olympus",
+      "scheme_en": "Pop Art"
+    },
+    "sony-69": {
+      "brand_zh": "奥林巴斯",
+      "brand_en": "Olympus",
+      "scheme_en": "Pale Light Color"
+    },
+    "sony-70": {
+      "brand_zh": "爱克发",
+      "brand_en": "Agfa",
+      "scheme_en": "Vista 200"
+    },
+    "sony-71": {
+      "brand_zh": "爱克发",
+      "brand_en": "Agfa",
+      "scheme_en": "Ultra 100"
+    },
+    "sony-72": {
+      "brand_zh": "宝丽来",
+      "brand_en": "Polaroid",
+      "scheme_en": "Instant"
+    },
+    "sony-73": {
+      "brand_zh": "伊尔福德",
+      "brand_en": "Ilford",
+      "scheme_en": "HP5"
+    },
+    "sony-74": {
+      "brand_zh": "伊尔福德",
+      "brand_en": "Ilford",
+      "scheme_en": "FP4"
+    },
+    "sony-75": {
+      "brand_zh": "伊尔福德",
+      "brand_en": "Ilford",
+      "scheme_en": "Delta 100"
+    },
+    "sony-76": {
+      "brand_zh": "伊尔福德",
+      "brand_en": "Ilford",
+      "scheme_en": "Delta 3200"
+    },
+    "sony-77": {
+      "brand_zh": "伊尔福德",
+      "brand_en": "Ilford",
+      "scheme_en": "Pan F 50"
+    },
+    "has-nature-soft": {
+      "brand_zh": "哈苏",
+      "brand_en": "Hasselblad",
+      "scheme_en": "Nature Soft"
+    },
+    "has-portrait-soft": {
+      "brand_zh": "哈苏",
+      "brand_en": "Hasselblad",
+      "scheme_en": "Portrait Soft"
+    },
+    "has-landscape-clear": {
+      "brand_zh": "哈苏",
+      "brand_en": "Hasselblad",
+      "scheme_en": "Landscape Clear"
+    },
+    "has-warm-daylight": {
+      "brand_zh": "哈苏",
+      "brand_en": "Hasselblad",
+      "scheme_en": "Warm Daylight"
+    },
+    "has-true-hncs-community": {
+      "brand_zh": "哈苏",
+      "brand_en": "Hasselblad",
+      "scheme_en": "True HNCS Community"
+    }
+  }
+}

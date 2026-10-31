@@ -1,0 +1,12 @@
+{
+  "author": "@Jhih he",
+  "status": "uncalibrated-hasselblad-inspired-sigma-presets",
+  "official_reference": "https://www.hasselblad.com/learn/hasselblad-natural-colour-solution/",
+  "presets": [
+    {"key":"has-nature-soft","name":"哈苏参考 · 自然柔和","hud_token":"NatureSoft","fp":{"con":0,"sharp":-1,"sat":0,"colorMode":2,"wbMode":0,"kelvin":0,"ab":0,"gm":0},"basis":"FilmLab original interpretation of natural colour and smooth transitions; numeric settings are not Hasselblad specifications"},
+    {"key":"has-portrait-soft","name":"哈苏参考 · 柔和人像","hud_token":"PortraitSoft","fp":{"con":-2,"sharp":-1,"sat":0,"colorMode":3,"wbMode":0,"kelvin":0,"ab":0,"gm":0},"basis":"FilmLab original interpretation of gentle skin transitions; numeric settings are not Hasselblad specifications"},
+    {"key":"has-landscape-clear","name":"哈苏参考 · 清透风景","hud_token":"LandscapeClear","fp":{"con":0,"sharp":-1,"sat":1,"colorMode":4,"wbMode":0,"kelvin":0,"ab":0,"gm":0},"basis":"FilmLab original landscape variation; numeric settings are not Hasselblad specifications"},
+    {"key":"has-warm-daylight","name":"哈苏参考 · 暖日光","hud_token":"WarmDaylight","fp":{"con":-1,"sharp":-1,"sat":0,"colorMode":2,"wbMode":70,"kelvin":5600,"ab":1,"gm":0},"basis":"FilmLab original warm daylight variation; numeric settings are not Hasselblad specifications"},
+    {"key":"has-true-hncs-community","name":"哈苏参考 · True HNCS 社区适配","hud_token":"TrueHNCS","fp":{"con":-1,"sharp":1,"sat":1,"colorMode":3,"wbMode":0,"kelvin":0,"ab":1,"gm":0},"source":"https://www.reddit.com/r/fujifilm/comments/1s9zxfy/new_film_simulation/","source_author":"Several_Bridge_577","reference_parameters":{"film_simulation":"Astia Soft","dynamic_range":"DR200","grain":"Off","color_chrome":"Strong","color_chrome_blue":"Strong","wb":"Auto","wb_red":1,"wb_blue":-1,"highlight":-0.5,"shadow":-0.5,"color":1,"sharpness":1,"high_iso_nr":-4,"clarity":0},"basis":"Community Fujifilm reference, adapted by @Jhih he. Portrait substitutes Astia; contrast -1 approximates the two tone reductions; A/B +1 approximates warmer WB. DR200, Color Chrome, separate tones and NR cannot be applied through current Sigma ABI. Author claims have not been independently verified"}
+  ]
+}
