@@ -47,7 +47,11 @@ Sony 的矩阵、部分特效、动态范围优化等没有得到等效实现，
 
 ## 📦 源码与下载
 
-这里先公开可区分的第一方实验源码、方案清单和保留 MIT 许可的上游配方数据。由于当前使用的 fpSup 固定版本没有随仓库提供明确的再分发许可证，**此仓库暂不包含 fpSup 加载器及其构建产物，也不提供可直接安装的 ZIP**。独立取得相应权限及依赖之前，本仓库内容不能单独构建完整安装包。
+**[⬇️ 下载 v0.7.5 Sepia 测试包](downloads/Jhih-FilmLab-v0.7.5-sepia-candidate.zip)** · 仅 Sigma fp 固件 **5.02**
+
+SHA-256：`f8d2e10326063574f2b3437afb050d01cd9b0e884eb2ab918d8a743d849634ba`
+
+这是候选测试包，包含 AutoRun.txt、FilmLab.BIN 和中文机内测试说明；**尚未确认该版本实机启动、稳定性或 82 项色彩验收**。它引用 fpSup 加载方式；所用上游版本未发现明确再分发许可，也尚未取得作者授权。源码仓库不包含 fpSup 加载器源码，不能单独构建完整安装包。
 
 - [82 个方案清单](docs/film-catalog.md)
 - [适配差异与已知限制](docs/catalog-adaptation-audit.md)
@@ -66,4 +70,4 @@ Sony 的矩阵、部分特效、动态范围优化等没有得到等效实现，
 
 ## 📜 许可与来源
 
-第一方内容按 [非商业使用许可](LICENSE) 分享。这属于**源代码可见的非商业许可**，不符合开源促进会（OSI）的开源定义。第三方内容各自适用其原许可：配方来源 [recipe-lab-sony-pmca-cn](https://github.com/jcx396905-gif/recipe-lab-sony-pmca-cn)，保留原作者 André Domingues 的 [MIT 许可](vendor/sony-recipe-lab/LICENSE)；加载方式参考 [fpSup](https://github.com/ijigen/fpSup)，作者 ijigen，相关代码未在此重新分发。
+第一方内容按 [非商业使用许可](LICENSE) 分享。这属于**源代码可见的非商业许可**，不符合开源促进会（OSI）的开源定义。第三方内容各自适用其原许可：配方来源 [recipe-lab-sony-pmca-cn](https://github.com/jcx396905-gif/recipe-lab-sony-pmca-cn)，保留原作者 André Domingues 的 [MIT 许可](vendor/sony-recipe-lab/LICENSE)；加载方式参考 [fpSup](https://github.com/ijigen/fpSup)，作者 ijigen，安装 ZIP 含其加载代码；当前尚未取得上游作者再分发授权。
