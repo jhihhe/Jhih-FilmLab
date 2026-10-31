@@ -1,5 +1,7 @@
 # Jhih‘s FilmLab v0.7.5 Sepia 候选版机内测试说明（仅离线验证）
 
+[English](native-testing.en.md) · [简体中文](native-testing.md)
+
 作者：@Jhih he
 
 本候选版将 22/82 Sepia 的 Toning 设为 7；这是离线固件分析结果，尚未实机验证。所有 82 组色彩验收仍待完成。

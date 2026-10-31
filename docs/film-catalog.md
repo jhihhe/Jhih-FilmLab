@@ -1,5 +1,7 @@
 # Jhih‘s FilmLab 82 配方清单
 
+[English](film-catalog.en.md) · [简体中文](film-catalog.md)
+
 作者：@Jhih he。完整原始参数保留；机内应用色彩模式、对比度、锐度、饱和度、白平衡、色温及两轴偏移；效果未实机校准。
 
 |编号（原Sony编号）|品牌|配方名|fp 色彩/WB/K/AB/GM|fp 对比/锐度/饱和/Toning|裁剪|待实现参数|
