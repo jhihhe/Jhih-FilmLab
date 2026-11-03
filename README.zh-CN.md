@@ -1,3 +1,13 @@
+<!-- readme-visuals:header:start -->
+<p align="center"><img src="readme-assets/banner.svg" alt="Jhih&#x27;s FilmLab — Firmware 5.02 / 82 recipes / 0 camera acceptances" width="100%"></p>
+
+<p align="center">
+  <a href="https://github.com/jhihhe/Jhih-FilmLab/commits/main"><img src="https://img.shields.io/github/last-commit/jhihhe/Jhih-FilmLab?style=flat-square&amp;color=d6ae7b" alt="Last commit"></a>
+  <a href="https://github.com/jhihhe/Jhih-FilmLab/stargazers"><img src="https://img.shields.io/github/stars/jhihhe/Jhih-FilmLab?style=flat-square&amp;color=d6ae7b" alt="GitHub stars"></a>
+  <a href="https://github.com/jhihhe"><img src="https://img.shields.io/badge/Maintainer-%40Jhih%20he-d6ae7b?style=flat-square" alt="Maintainer: @Jhih he"></a>
+</p>
+<!-- readme-visuals:header:end -->
+
 <div align="center">
 
 # 🎞️ Jhih’s FilmLab for Sigma fp
@@ -30,6 +40,32 @@
 ![早期相机屏幕演示](assets/fp-screen-example.jpg)
 
 <sub>早期版本的相机屏幕截图；最新候选版仍待实测。</sub>
+
+<!-- readme-visuals:overview:start -->
+
+## 项目速览
+
+<table>
+<tr>
+<td width="33%"><strong>配方目录</strong><br><br>82 个命名配方，73 组不同目标参数。</td>
+<td width="33%"><strong>切换与 HUD</strong><br><br>按键切换及双语 HUD，当前候选仍待相机验证。</td>
+<td width="33%"><strong>证据与边界</strong><br><br>0/82 实拍色彩验收；原厂 COLOR 菜单未交付。</td>
+</tr>
+</table>
+
+> 实验性、非商业项目；当前候选仅有离线检查。fpSup 再分发授权尚未取得，完整风险与来源声明见原文。
+
+### 流程概览
+
+```mermaid
+flowchart LR
+    S0["阅读风险及第三方声明"] --> S1
+    S1["核对 fp 5.02 与备份"] --> S2
+    S2["按测试指南评估候选"] --> S3
+    S3["记录启动、恢复与实拍证据"]
+```
+
+<!-- readme-visuals:overview:end -->
 
 ## 📷 这个项目在做什么？
 

@@ -1,3 +1,13 @@
+<!-- readme-visuals:header:start -->
+<p align="center"><img src="readme-assets/banner.svg" alt="Jhih&#x27;s FilmLab — Firmware 5.02 / 82 recipes / 0 camera acceptances" width="100%"></p>
+
+<p align="center">
+  <a href="https://github.com/jhihhe/Jhih-FilmLab/commits/main"><img src="https://img.shields.io/github/last-commit/jhihhe/Jhih-FilmLab?style=flat-square&amp;color=d6ae7b" alt="Last commit"></a>
+  <a href="https://github.com/jhihhe/Jhih-FilmLab/stargazers"><img src="https://img.shields.io/github/stars/jhihhe/Jhih-FilmLab?style=flat-square&amp;color=d6ae7b" alt="GitHub stars"></a>
+  <a href="https://github.com/jhihhe"><img src="https://img.shields.io/badge/Maintainer-%40Jhih%20he-d6ae7b?style=flat-square" alt="Maintainer: @Jhih he"></a>
+</p>
+<!-- readme-visuals:header:end -->
+
 <div align="center">
 
 # 🎞️ Jhih’s FilmLab for Sigma fp
@@ -30,6 +40,32 @@ An fpSup-based experiment in switching color recipes before pressing the shutter
 ![Early Sigma fp camera screen example](assets/fp-screen-example.jpg)
 
 <sub>Real screen capture from an earlier build. It does not demonstrate v0.7.5 operation or color accuracy.</sub>
+
+<!-- readme-visuals:overview:start -->
+
+## At a glance
+
+<table>
+<tr>
+<td width="33%"><strong>Recipe catalog</strong><br><br>82 named recipes and 73 target parameter sets.</td>
+<td width="33%"><strong>Controls and HUD</strong><br><br>Button switching and bilingual HUD; candidate needs camera tests.</td>
+<td width="33%"><strong>Evidence and limits</strong><br><br>0/82 camera color acceptances; stock COLOR menu not shipped.</td>
+</tr>
+</table>
+
+> Experimental, noncommercial project; current candidate has offline checks only. fpSup redistribution permission remains outstanding; retain the full warnings and notices below.
+
+### Workflow overview
+
+```mermaid
+flowchart LR
+    S0["Read risks and third-party notices"] --> S1
+    S1["Check fp 5.02 and back up"] --> S2
+    S2["Evaluate candidate using test guide"] --> S3
+    S3["Record startup, recovery and capture evidence"]
+```
+
+<!-- readme-visuals:overview:end -->
 
 ## 📷 What is FilmLab?
 
